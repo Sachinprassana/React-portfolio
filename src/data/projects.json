@@ -1,0 +1,18 @@
+[
+    {
+      "title": "Music Genre",
+      "imageSrc": "projects/MusicGen.png",
+      "description": "Automating the classification of audio/music files to specific categories/genres using machine learning and deep learning algorithms.",
+      "skills": ["Python", "csv", "Jupyter Notebook"],
+      "source": "https://github.com/Sachinprassana/Music-Genre-Classification"
+    },
+    {
+      "title": "Portfolio",
+      "imageSrc": "projects/portpic.png",
+      "description": "This is my portfolio brings together the best of my work and experiences, developed using the latest technology React and Node.js.",
+      "skills": ["React", "Express", "Node.js", "Json"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Sachinprassana/React-Portfolio"
+    }
+  ]
+  
