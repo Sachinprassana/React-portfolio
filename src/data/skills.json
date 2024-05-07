@@ -34,5 +34,13 @@
     {
       "title": "SQL",
       "imageSrc": "skills/Sql.png"
+    },
+    {
+      "title": "Spring Boot",
+      "imageSrc":"skills/SB.png"
+    },
+    {
+      "title": "AWS",
+      "imageSrc":"skills/AWS.png"
     }
   ]
