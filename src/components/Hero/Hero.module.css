@@ -77,7 +77,6 @@
     width: 50vw;
     height: 50vw;
     min-width: 350px;
-    min-width: 350px;
     top: -128px;
     left: -10vw;
     border-radius: 764px;
@@ -91,7 +90,6 @@
     width: 70vw;
     height: 50vw;
     min-width: 350px;
-    min-width: 250px;
     top: 246px;
     right: -25vw;
     border-radius: 764px;
@@ -107,5 +105,17 @@
   
     .content {
       align-items: center;
+    }
+
+    .title {
+      font-size: 48px; /* Adjusted for smaller screens */
+      margin-bottom: 20px; /* Adjusted for spacing */
+    }
+
+    .description {
+        font-size: 24px; /* Adjusted for smaller screens */
+        margin-bottom: 40px; /* Adjusted for spacing */
+        margin-right: 0; /* Center align text */
+        margin-left: 1rem;
     }
 }
