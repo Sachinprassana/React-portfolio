@@ -8,7 +8,7 @@
     },
     {
       "title": "Portfolio",
-      "imageSrc": "projects/portpic.png",
+      "imageSrc": "projects/Portp.png",
       "description": "This is my portfolio brings together the best of my work and experiences, developed using the latest technology React and Node.js.",
       "skills": ["React", "Express", "Node.js", "Json"],
       "demo": "https://www.example.com",
